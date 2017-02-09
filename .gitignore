@@ -1,1 +1,5 @@
 .bitrise.secrets.yml
+
+# bundler / gem
+/.bundle
+vendor/bundle
